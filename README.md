@@ -2,9 +2,6 @@
 
 ### A B.Tech 3rd year student  persuing Computer Science and trying to do better in the coding world. Also Trying to be out of the bush in the long run of Software Engineers.
 
-
-<br>
-
 ### Expertise
 
 <p float = 'left'>
