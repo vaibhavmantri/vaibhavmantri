@@ -9,8 +9,8 @@
 <p float = 'left'>
 <img src = "https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-c-programming-language-icon-by-vexels.png" width = '5%'>
 <img src = "https://i.pinimg.com/564x/da/05/88/da0588b44566b623c7de9e0a896966db.jpg" width = '5%'>
-<img src = 'https://i.pinimg.com/564x/1a/1e/75/1a1e75b588e907899475fa79d8762a5b.jpg' width = '5%'>
-<img src = 'https://i.pinimg.com/564x/fb/ba/ce/fbbacefb74109aa386dd39927a20d91f.jpg' width = 5%>
+<img src = 'https://i.pinimg.com/564x/1a/1e/75/1a1e75b588e907899475fa79d8762a5b.jpg' width = '4%'>
+<img src = 'https://i.pinimg.com/564x/fb/ba/ce/fbbacefb74109aa386dd39927a20d91f.jpg' width = 4%>
 <img src = 'https://i.pinimg.com/564x/62/be/e9/62bee922be92328e8e713802239544c9.jpg' width = '5%>
 <img src = 'https://pngimg.com/uploads/php/php_PNG7.png' width = '5%'>
 <img src = 'https://i.pinimg.com/564x/f2/a4/a6/f2a4a67c705799c38f4e8d7a89e63fc0.jpg' width = '5%'>
