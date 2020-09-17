@@ -1,7 +1,7 @@
 # Hi, my name is Vaibhav Mantri 👋
 
 ### A B.Tech 3rd year student  persuing Computer Science and trying to do better in the coding world. Also Trying to be out of the bush in the long run of Software Engineers.
-
+<br>
 <p style = "margin-left:50%"> 
   <a href = "https://www.youtube.com/channel/UCgai1mBa3Obd8pbpnClb0mg?view_as=subscriber"><img src = "https://i.pinimg.com/564x/8d/f8/a4/8df8a434b0221c52cbb0c68462b762a4.jpg" width = "5%"> </a>
   <a href = "https://www.linkedin.com/in/vaibhav-mantri-350331188/"><img src = "https://i.pinimg.com/236x/b0/28/c2/b028c2e59043116dfc0da6ec6fd26d70.jpg" width = "4%"></a>
@@ -12,7 +12,7 @@
 </p>
 
 
-### Expertise
+## Expertise
 
 <p float = 'left'>
 <img src = "https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-c-programming-language-icon-by-vexels.png" width = '5%'>
@@ -30,20 +30,23 @@
 <img src = 'https://i.pinimg.com/564x/2d/29/4d/2d294d0612a1a14776f872a7b07c05ec.jpg' width = '5%'>
 <img src = 'https://i.pinimg.com/564x/78/44/8c/78448c98d0e8a4ed54c672f6ce3278d7.jpg' width = '5%'>
 </p>
-<p float = "left">
+
   
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmantri&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmantri&langs_count=8)](https://github.com/vaibhavmantri/github-readme-stats)
 
-</p>
 
-### Know About Me
+
+## Know About Me
 #### https://vaibhavmantri.github.io/aboutme/
 ####
 
-### Mobile App Overview
+## Mobile App Overview
 <p float = "left">
 <img src = "https://github.com/vaibhavmantri/About-Me/blob/master/images/home_page.PNG" width = "20%">
 <img src = "https://github.com/vaibhavmantri/About-Me/blob/master/images/drawer1.PNG" width = "20%>
 </p>
+                                                                                               
+                                                                                               
+                                                                                              
