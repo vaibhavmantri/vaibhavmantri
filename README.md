@@ -12,11 +12,11 @@
 <img src = 'https://i.pinimg.com/564x/78/44/8c/78448c98d0e8a4ed54c672f6ce3278d7.jpg' width="40" height="40">
 <br>
 
-  
+ <p align = "center">
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmantri&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmantri&langs_count=8)](https://github.com/vaibhavmantri/github-readme-stats)
-
+</p>
 <p align = "center"> 
   <a href = "https://www.youtube.com/channel/UCgai1mBa3Obd8pbpnClb0mg?view_as=subscriber"><img src = "https://i.pinimg.com/564x/8d/f8/a4/8df8a434b0221c52cbb0c68462b762a4.jpg" width = "5%"> </a>
   <a href = "https://www.linkedin.com/in/vaibhav-mantri-350331188/"><img src = "https://i.pinimg.com/236x/b0/28/c2/b028c2e59043116dfc0da6ec6fd26d70.jpg" width="40" height="40"></a>
