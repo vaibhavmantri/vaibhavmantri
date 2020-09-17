@@ -13,6 +13,7 @@
 <br>
 
  <p align = "center">
+  
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmantri&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmantri&langs_count=8)](https://github.com/vaibhavmantri/github-readme-stats)
