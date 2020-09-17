@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmantri&langs_count=8)](https://github.com/vaibhavmantri/github-readme-stats)
 
-<p style = "margin-left:50%"> 
+<p align = "center"> 
   <a href = "https://www.youtube.com/channel/UCgai1mBa3Obd8pbpnClb0mg?view_as=subscriber"><img src = "https://i.pinimg.com/564x/8d/f8/a4/8df8a434b0221c52cbb0c68462b762a4.jpg" width = "5%"> </a>
   <a href = "https://www.linkedin.com/in/vaibhav-mantri-350331188/"><img src = "https://i.pinimg.com/236x/b0/28/c2/b028c2e59043116dfc0da6ec6fd26d70.jpg" width = "4%"></a>
   <a href = "https://www.instagram.com/_vaibhavmantri_/"><img src = "https://i.pinimg.com/236x/4e/d6/c0/4ed6c0d35a6e50eb0d5ff72ecc6ae0f9.jpg" width = "4%"></a>
