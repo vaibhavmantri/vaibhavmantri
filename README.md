@@ -24,9 +24,6 @@
   <a href = "https://discord.gg/8F84qtU"><img src = "https://i.pinimg.com/236x/44/9b/13/449b13424fcee07a3fa164a09f7bca0c.jpg" width="40" height="40"></a>
   <a href = "https://github.com/vaibhavmantri/"><img src = "https://i.pinimg.com/564x/23/cd/80/23cd80bb785b4513d1a592a46bd882a4.jpg" width="40" height="40"></a>
   <a href = "https://vaibhavmantri.github.io/aboutme/"><img src = "https://www.clipartkey.com/mpngs/m/214-2145330_click-website-icon-png.png" width="40" height="40"></a>                                                                                                           
-</p>
-
-## Know About Me
-#### https://vaibhavmantri.github.io/aboutme/                                                                                         
+</p>                                                                                       
                                                                                                
                                                                                               
