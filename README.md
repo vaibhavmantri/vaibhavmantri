@@ -8,7 +8,7 @@
   <a href = "https://www.instagram.com/_vaibhavmantri_/"><img src = "https://i.pinimg.com/236x/4e/d6/c0/4ed6c0d35a6e50eb0d5ff72ecc6ae0f9.jpg" width = "4%"></a>
   <a href = "https://discord.gg/8F84qtU"><img src = "https://i.pinimg.com/236x/44/9b/13/449b13424fcee07a3fa164a09f7bca0c.jpg" width = "4%"></a>
   <a href = "https://github.com/vaibhavmantri/"><img src = "https://i.pinimg.com/564x/23/cd/80/23cd80bb785b4513d1a592a46bd882a4.jpg" width = "4%"></a>
-                                                                                                                
+  <a href = "https://vaibhavmantri.github.io/aboutme/"><img src = "https://www.clipartkey.com/mpngs/m/214-2145330_click-website-icon-png.png" width = "4%"></a>                                                                                                           
 </p>
 
 
