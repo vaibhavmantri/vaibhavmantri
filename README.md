@@ -11,6 +11,8 @@
   <img src = 'https://i.pinimg.com/564x/2d/29/4d/2d294d0612a1a14776f872a7b07c05ec.jpg' width="40" height="40">
 <img src = 'https://i.pinimg.com/564x/78/44/8c/78448c98d0e8a4ed54c672f6ce3278d7.jpg' width="40" height="40">
 <br>
+  
+  <h1> <a href = "https://vaibhavmantri.github.io/vaibhav_mantri/">My Website</a></h1>
 
  <p align = "center">
   
@@ -27,6 +29,5 @@
   <a href = "https://vaibhavmantri.github.io/aboutme/"><img src = "https://www.clipartkey.com/mpngs/m/214-2145330_click-website-icon-png.png" width="40" height="40"></a>         
 </p>                                                                                       
  <br>
- <a href = "https://vaibhavmantri.github.io/vaibhav_mantri/">My Website</a>
                                                                                               
-<h1> <a href = "https://vaibhavmantri.github.io/vaibhav_mantri/">My Website</a></h1>
+
