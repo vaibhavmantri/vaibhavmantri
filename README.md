@@ -12,6 +12,22 @@
 <img src = 'https://i.pinimg.com/564x/78/44/8c/78448c98d0e8a4ed54c672f6ce3278d7.jpg' width="40" height="40">
 <br>
 -->
+<ul>
+<li/> C
+<li/> C++
+<li/> HTML
+<li/> CSS
+<li/> Javascript
+<li/> React
+<li/> ElectronJS
+<li/> Firebase
+<li/> MongoDB
+<li/> NodeJS
+<li/> Github
+<li/> Git
+<li/> Linux Shell
+<li/> Adobe Premiere Pro
+</ul>
   
   <h1> <a href = "https://vaibhavmantri.github.io/vaibhav_mantri/">My Website</a></h1>
 
